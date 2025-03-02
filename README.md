@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mehul Gupta, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Vansh Dobariya, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
   
 
 - 🌱 Currently diving deep into advanced React.js concepts and mastering backend integrations using Node.js  
@@ -65,10 +65,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/MehulGS?tab=repositories" target="_blank">
+<a href="https://github.com/VanshBD?tab=repositories" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/mehul-gupta-30855a291/" target="_blank">
+<a href="https://www.linkedin.com/in/vansh-dobariya-101a0b255/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
