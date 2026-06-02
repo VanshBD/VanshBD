@@ -5,7 +5,7 @@
 
 <!-- ┌─────────────────── ANIMATED HEADER ───────────────────┐ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=VANSH%20BD&fontSize=90&color=0:050505,40:0d1117,100:050505&fontColor=00ff41&animation=twinkling&fontAlignY=52&desc=⬡%20Developer%20Architect%20·%20Ahmedabad%2C%20India%20·%20Building%20the%20Impossible%20⬡&descAlignY=74&descSize=15&stroke=00ff41&strokeWidth=1.5" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=VANSH%20BD&fontSize=90&color=0:050505,40:0d1117,100:050505&fontColor=00ff41&animation=twinkling&fontAlignY=52&desc=⬡%20Developer%20Architect%20·%20Ahmedabad%2C%20India%20·%20Building%20the%20Impossible%20⬡&descAlignY=74&descSize=15&stroke=00ff41&strokeWidth=1.5" width="100%"/> -->
 
 <!-- └───────────────────────────────────────────────────────┘ -->
 
