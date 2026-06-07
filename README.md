@@ -31,7 +31,7 @@
 
 <!-- ┌─────────────── SPEC-001 : DEVELOPER IDENTITY ──────────────┐ -->
 
-<div align="center"><h2>⬡ SPEC-001 — DEVELOPER IDENTITY</h2></div>
+<div align="center"><h2>⬡ SPEC-001 : DEVELOPER IDENTITY</h2></div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -62,7 +62,7 @@
 
 <!-- ┌─────────────── SPEC-002 : CORE MODULES / SKILLS ────────────┐ -->
 
-<div align="center"><h2>⬡ SPEC-002 — CORE MODULES INSTALLED</h2></div>
+<div align="center"><h2>⬡ SPEC-002 : CORE MODULES INSTALLED</h2></div>
 
 ```bash
 vansh@ahmedabad:~$ dpkg --list | grep "status=installed"
@@ -115,42 +115,13 @@ All packages satisfied · Build: PASSING ✓
 </div>
 
 ---
-
-<!-- ┌─────────────── SPEC-003 : TECH DNA (NATIVE MERMAID) ────────┐ -->
-
-<div align="center"><h2>⬡ SPEC-003 — TECH DNA BREAKDOWN</h2></div>
-
-```mermaid
-pie showData title VANSH.BD — TECH DNA
-    "Frontend Architecture" : 28
-    "Backend and APIs" : 25
-    "Database Design" : 17
-    "Cloud and DevOps" : 13
-    "Blockchain Frontier" : 10
-    "System Design" : 7
-```
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#00ff41', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#0d1117'}}}%%
-graph LR
-    A[Client Brief] --> B[Scoping]
-    B --> C[UI Design]
-    C --> D[Frontend Dev]
-    D --> E[Backend APIs]
-    E --> F[Database]
-    F --> G[Cloud Deploy]
-    G --> H[LIVE PRODUCT]
-    style A fill:#0d1117,stroke:#00ff41,color:#c9d1d9
-    style H fill:#0d1117,stroke:#00ff41,color:#00ff41
-```
-
 ---
 
-<!-- ┌─────────────── SPEC-004 : LIVE SYSTEM DIAGNOSTICS ──────────┐ -->
+<!-- ┌─────────────── SPEC-003 : LIVE SYSTEM DIAGNOSTICS ──────────┐ -->
 
 <div align="center">
 
-<h2>⬡ SPEC-004 — LIVE SYSTEM DIAGNOSTICS</h2>
+<h2>⬡ SPEC-003 : LIVE SYSTEM DIAGNOSTICS</h2>
 
 ```
 vansh@ahmedabad:~$ vansh --diagnostics --live --all
@@ -179,11 +150,11 @@ vansh@ahmedabad:~$ vansh --diagnostics --live --all
 
 ---
 
-<!-- ┌─────────────── SPEC-005 : 3D CONTRIBUTION CALENDAR ─────────┐ -->
+<!-- ┌─────────────── SPEC-004 : 3D CONTRIBUTION CALENDAR ─────────┐ -->
 
 <div align="center">
 
-<h2>⬡ SPEC-005 — 3D CONTRIBUTION ARCHITECTURE</h2>
+<h2>⬡ SPEC-004 : 3D CONTRIBUTION ARCHITECTURE</h2>
 
 ```
 vansh@ahmedabad:~$ render --3d --contributions --year=2026
@@ -199,11 +170,11 @@ vansh@ahmedabad:~$ render --3d --contributions --year=2026
 
 ---
 
-<!-- ┌─────────────── SPEC-006 : CONTRIBUTION SNAKE ───────────────┐ -->
+<!-- ┌─────────────── SPEC-005 : CONTRIBUTION SNAKE ───────────────┐ -->
 
 <div align="center">
 
-<h2>⬡ SPEC-006 — CONTRIBUTION GRID · SNAKE PROTOCOL</h2>
+<h2>⬡ SPEC-005 : CONTRIBUTION GRID · SNAKE PROTOCOL</h2>
 
 ```
 vansh@ahmedabad:~$ ./snake --consume-contributions --mode=animated
@@ -219,9 +190,9 @@ vansh@ahmedabad:~$ ./snake --consume-contributions --mode=animated
 
 ---
 
-<!-- ┌─────────────── SPEC-007 : DEVELOPER JOURNEY ────────────────┐ -->
+<!-- ┌─────────────── SPEC-006 : DEVELOPER JOURNEY ────────────────┐ -->
 
-<div align="center"><h2>⬡ SPEC-007 — DEVELOPER JOURNEY · GIT LOG</h2></div>
+<div align="center"><h2>⬡ SPEC-006 : DEVELOPER JOURNEY · GIT LOG</h2></div>
 
 ```
 vansh@ahmedabad:~$ git log --all --graph --oneline --developer-journey
@@ -255,9 +226,9 @@ vansh@ahmedabad:~$ git log --all --graph --oneline --developer-journey
 
 ---
 
-<!-- ┌─────────────── SPEC-008 : CLASSIFIED FILES (EASTER EGGS) ───┐ -->
+<!-- ┌─────────────── SPEC-007 : CLASSIFIED FILES (EASTER EGGS) ───┐ -->
 
-<div align="center"><h2>⬡ SPEC-008 — CLASSIFIED SUBSYSTEMS</h2></div>
+<div align="center"><h2>⬡ SPEC-007 : CLASSIFIED SUBSYSTEMS</h2></div>
 
 ```
 vansh@ahmedabad:~$ ls -la ./classified/
@@ -358,11 +329,11 @@ vansh@ahmedabad:~$ ls -la ./classified/
 
 ---
 
-<!-- ┌─────────────── SPEC-009 : DAILY JOKE ───────────────────────┐ -->
+<!-- ┌─────────────── SPEC-008 : DAILY JOKE ───────────────────────┐ -->
 
 <div align="center">
 
-<h2>⬡ SPEC-009 — DAILY DIAGNOSTIC HUMOR UNIT</h2>
+<h2>⬡ SPEC-008 : DAILY DIAGNOSTIC HUMOR UNIT</h2>
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%2300ff41&aColor=%23c9d1d9&bgColor=%230d1117&codeColor=%2300ff41" alt="Dev Joke"/>
 
@@ -370,11 +341,11 @@ vansh@ahmedabad:~$ ls -la ./classified/
 
 ---
 
-<!-- ┌─────────────── SPEC-010 : COMM PROTOCOLS ───────────────────┐ -->
+<!-- ┌─────────────── SPEC-09 : COMM PROTOCOLS ───────────────────┐ -->
 
 <div align="center">
 
-<h2>⬡ SPEC-010 — COMMUNICATION ARRAY</h2>
+<h2>⬡ SPEC-09 : COMMUNICATION ARRAY</h2>
 
 ```
 vansh@ahmedabad:~$ ping vansh --all-channels
