@@ -419,7 +419,7 @@ Scanning signal...
 ```
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31da62bnx3pejhe4kz2ngwnw4ehy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31da62bnx3pejhe4kz2ngwnw4ehy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31da62bnx3pejhe4kz2ngwnw4ehy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31da62bnx3pejhe4kz2ngwnw4ehy&redirect=true)
 
 ```
 ◈ What Vansh is vibing to while shipping code...
