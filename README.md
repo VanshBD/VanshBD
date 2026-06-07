@@ -60,34 +60,44 @@
 
 ---
 
-<!-- ┌─────────────── SPEC-002 : CORE MODULES / SKILLS ────────────┐ -->
-
-<div align="center"><h2>⬡ SPEC-002 : CORE MODULES INSTALLED</h2></div>
-
 ```bash
 vansh@ahmedabad:~$ dpkg --list | grep "status=installed"
 
   ◈ FRONTEND LAYER
-    ├─ react@18.3          ████████████ ACTIVE
-    ├─ next@14.2           ████████████ ACTIVE
-    ├─ typescript@5.4      ████████████ ACTIVE
-    ├─ tailwindcss@3.4     ████████████ ACTIVE
-    └─ framer-motion@11    ████████████ ACTIVE
+    ├─ react@18.3            ████████████  ACTIVE
+    ├─ next@14.2             ████████████  ACTIVE
+    ├─ typescript@5.4        ████████████  ACTIVE
+    ├─ tailwindcss@3.4       ████████████  ACTIVE
+    └─ framer-motion@11      ████████████  ACTIVE
 
   ◈ BACKEND LAYER
-    ├─ node@20.14          ████████████ ACTIVE
-    ├─ express@4.19        ████████████ ACTIVE
-    ├─ graphql@16.8        ████████████ ACTIVE
-    └─ prisma@5.15         ████████████ ACTIVE
+    ├─ node@20.14            ████████████  ACTIVE
+    ├─ express@4.19          ████████████  ACTIVE
+    ├─ graphql@16.8          ████████████  ACTIVE
+    └─ prisma@5.15           ████████████  ACTIVE
 
   ◈ DATABASE / CLOUD
-    ├─ mongodb@7.0         ████████████ ACTIVE
-    ├─ firebase@10.12      ████████████ ACTIVE
-    └─ gcloud-sdk@latest   ████████████ ACTIVE
+    ├─ mongodb@7.0           ████████████  ACTIVE
+    ├─ mysql@8.0             ████████████  ACTIVE
+    ├─ firebase@10.12        ████████████  ACTIVE
+    ├─ aws-sdk@3.600         ████████████  ACTIVE
+    └─ gcloud-sdk@latest     ████████████  ACTIVE
+
+  ◈ AI / LLM SDK LAYER
+    ├─ openai-sdk@latest     ████████████  ACTIVE
+    ├─ anthropic-sdk@latest  ████████████  ACTIVE
+    ├─ gemini-sdk@latest     ████████████  ACTIVE
+    └─ huggingface@latest    ████████████  ACTIVE
+
+  ◈ AI AGENTS LAYER
+    ├─ cursor@latest         ████████████  ACTIVE
+    ├─ github-copilot@latest ████████████  ACTIVE
+    └─ claude-code@latest    ████████████  ACTIVE
 
   ◈ NEW FRONTIER
-    ├─ aws-sdk@3.600       █████░░░░░░░░░ ACTIVE
-    └─ blockchain@latest   ██████░░░░░░░░ INSTALLING...
+    ├─ langchain@latest      ██████░░░░░░  INSTALLING...
+    ├─ ai-agents-custom@dev  ████░░░░░░░░  INSTALLING...
+    └─ blockchain@latest     ████░░░░░░░░  INSTALLING...
 
 All packages satisfied · Build: PASSING ✓
 ```
