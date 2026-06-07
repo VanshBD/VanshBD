@@ -404,30 +404,6 @@ Response: "I'm in. Let's build something insane."
 
 ---
 
-<!-- ┌─────────────── SPEC-010 : LIVE AUDIO FEED ──────────────────┐ -->
-
-<div align="center">
-
-<h2>⬡ SPEC-010 : LIVE AUDIO FEED</h2>
-
-```
-vansh@ahmedabad:~$ audio --stream --live --source=spotify
-Scanning signal...
-◈ SOURCE     →  Spotify
-◈ STATUS     →  ● BROADCASTING LIVE
-◈ FEED TYPE  →  Real-time · Updates every play
-```
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31da62bnx3pejhe4kz2ngwnw4ehy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31da62bnx3pejhe4kz2ngwnw4ehy&redirect=true)
-
-```
-◈ What Vansh is vibing to while shipping code...
-◈ Feed auto-updates · No refresh needed
-```
-
-</div>
-
 <!-- ┌─────────────── GITHUB ACTIONS (HIDDEN) ─────────────────────┐ -->
 
 <details>
