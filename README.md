@@ -156,23 +156,20 @@ graph LR
 vansh@ahmedabad:~$ vansh --diagnostics --live --all
 ```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshBD&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBD&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" alt="Streak"/>
+<!-- ── STREAK (confirmed working) ── -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBD&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBD&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages Donut"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBD&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages Compact"/>
-
-<br/><br/>
-
+<!-- ── PROFILE DETAILS full-width (confirmed working) ── -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshBD&theme=github_dark" alt="Profile Details"/>
 
 <br/>
 
+<!-- ── 3 language + time cards (confirmed working) ── -->
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshBD&theme=github_dark" alt="Repos Per Language"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshBD&theme=github_dark" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanshBD&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanshBD&theme=github_dark&utcOffset=5.5" alt="Productive Time IST"/>
 
 <br/><br/>
 
