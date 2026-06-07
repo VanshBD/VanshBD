@@ -83,11 +83,11 @@ vansh@ahmedabad:~$ dpkg --list | grep "status=installed"
   ◈ DATABASE / CLOUD
     ├─ mongodb@7.0         ████████████ ACTIVE
     ├─ firebase@10.12      ████████████ ACTIVE
-    ├─ aws-sdk@3.600       ████████████ ACTIVE
     └─ gcloud-sdk@latest   ████████████ ACTIVE
 
   ◈ NEW FRONTIER
-    └─ blockchain@latest   ████████░░░░ INSTALLING...
+    ├─ aws-sdk@3.600       █████░░░░░░░░░ ACTIVE
+    └─ blockchain@latest   ██████░░░░░░░░ INSTALLING...
 
 All packages satisfied · Build: PASSING ✓
 ```
