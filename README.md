@@ -132,8 +132,7 @@ All packages satisfied · Build: PASSING ✓
 
 **[ AI / LLM ]**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8&theme=dark"/></a>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8&theme=dark"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -147,8 +146,6 @@ All packages satisfied · Build: PASSING ✓
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bolt-FF6B35?style=for-the-badge&logo=bolt&logoColor=white"/>
 
 </div>
 
