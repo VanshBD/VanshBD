@@ -21,7 +21,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/VanshBD?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41)
 ![Stars](https://img.shields.io/github/stars/VanshBD?label=TOTAL+STARS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-OPEN%20TO%20WORK-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/vansh-dobariya-101a0b255/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-OPEN%20TO%20WORK-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/vansh-dobariya/)
 ![Status](https://img.shields.io/badge/STATUS-BUILDING-00ff41?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/LOCATION-AHMEDABAD%2C%20INDIA-00ff41?style=for-the-badge&labelColor=0d1117)
 
@@ -38,16 +38,22 @@
 ║  ◈  ARCHITECT  :  VANSH DOBARIYA                                    ║
 ║  ◈  HANDLE     :  @VanshBD                                          ║
 ║  ◈  NODE       :  Ahmedabad, Gujarat, India  🇮🇳                    ║
-║  ◈  CLASS      :  Full-Stack Freelance Developer                    ║
-║  ◈  STATUS     :  ● ONLINE  ·  Open for freelance projects         ║
+║  ◈  CLASS      :  Full-Stack Developer · 2 Yrs Experience           ║
+║  ◈  STATUS     :  ● ONLINE  ·  Open to Full-Time Roles · Available Now ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║   CORE PROTOCOL  ›  MERN  ·  Next.js 14  ·  TypeScript             ║
-║   DELIVERED      ›  CRMs  ·  ERPs  ·  Industrial Systems           ║
+║   DELIVERED      ›  CRMs  ·  ERPs  ·  AI Integrations  ·  FinTech  ║
 ║   NOW EXPLORING  ›  Blockchain  ·  Web3  ·  New Frontiers           ║
 ║   MISSION        ›  Scope → Build → Ship → Scale                   ║
 ║   FUEL SYSTEM    ›  Chai  +  Lo-fi  +  Real Deadlines              ║
 ║   PHILOSOPHY     ›  "Ship it. Iterate. Make it legendary."          ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ◈  LEETCODE    :  162 Solved  ·  33 Hard  ·  100 Days Badge      ║
+║   ◈  GITHUB      :  16,500+ Contributions in 2026                   ║
+║   ◈  RECOGNITION :  1st Runner Up — PromptWars Ahmedabad 2026       ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -250,7 +256,7 @@ vansh@ahmedabad:~$ git log --all --graph --oneline --developer-journey
 │    3d1c7e2  🚀  Next.js 14 App Router + Server Actions unlocked
 │
 ◉─── tag: v1.8-cloud
-│    f8a2b4c  ☁️   AWS + GCP · First real cloud deployment live
+│    f8a2b4c  ☁️   AWS · Nginx · PM2 · First real server deployment live
 │
 ◉─── tag: v1.5-fullstack
 │    c2d5e8f  🔥  Full MERN · Frontend + Backend merged
@@ -317,7 +323,7 @@ vansh@ahmedabad:~$ ls -la ./classified/
       "Stack Overflow saved me more than any tutorial ever did"
     ],
     "what_i_actually_am": {
-      "role"        : "Student + Freelancer + Builder — all at once",
+      "role"        : "Developer + Builder + Freelancer — shipping since 2023",
       "superpower"  : "Going from client brief to live product, solo",
       "weakness"    : "Legacy codebases with zero documentation",
       "next_move"   : "Blockchain, Web3, and whatever comes next"
@@ -390,7 +396,7 @@ Response: "I'm in. Let's build something insane."
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect%20%26%20Collab-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/vansh-dobariya-101a0b255/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect%20%26%20Collab-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/vansh-dobariya/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow%20%26%20Star-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/VanshBD)
 &nbsp;
@@ -398,7 +404,7 @@ Response: "I'm in. Let's build something insane."
 
 <br/>
 
-[![Hire](https://img.shields.io/badge/AVAILABLE%20FOR%20FREELANCE-HIRE%20ME-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/vansh-dobariya-101a0b255/)
+[![Hire](https://img.shields.io/badge/OPEN%20TO%20FULL--TIME%20ROLES-HIRE%20ME-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/vansh-dobariya/)
 
 </div>
 
